@@ -1,0 +1,11 @@
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\bin\Debug\netcoreapp1.1\webappcore.deps.json
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\bin\Debug\netcoreapp1.1\webappcore.runtimeconfig.json
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\bin\Debug\netcoreapp1.1\webappcore.runtimeconfig.dev.json
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\bin\Debug\netcoreapp1.1\webappcore.dll
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\bin\Debug\netcoreapp1.1\webappcore.pdb
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\obj\Debug\netcoreapp1.1\webappcore.csprojAssemblyReference.cache
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\obj\Debug\netcoreapp1.1\webappcore.csproj.CoreCompileInputs.cache
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\obj\Debug\netcoreapp1.1\webappcore.AssemblyInfoInputs.cache
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\obj\Debug\netcoreapp1.1\webappcore.AssemblyInfo.cs
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\obj\Debug\netcoreapp1.1\webappcore.dll
+C:\Ambiente\workspaceNet\webappcore\webappcore\webappcore\obj\Debug\netcoreapp1.1\webappcore.pdb
